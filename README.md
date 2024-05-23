@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
     <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
@@ -876,3 +876,4 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+ -->
